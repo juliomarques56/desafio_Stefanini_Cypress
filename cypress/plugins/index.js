@@ -34,7 +34,17 @@ module.exports = (on, config) => {
   
   }, { recordLogs: true })
 }
-const cucumber = require('cypress-cucumber-preprocessor').default
+
+
+const browserify = require('@cypress/browserify-preprocessor');
+const cucumber = require('cypress-cucumber-preprocessor').default;
+const resolve = require('resolve');
+
 module.exports = (on, config) => {
-  on('file:preprocessor', cucumber())
-}
+  const options = {
+    ...browserify.defaultOptions,
+    typescript: resolve.sync('typescript', { baseDir: config.projectRoot }),
+  };
+
+  on('file:preprocessor', cucumber(options));
+};

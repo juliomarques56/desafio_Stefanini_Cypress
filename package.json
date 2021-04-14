@@ -18,7 +18,7 @@
     "chalk": "^4.1.0",
     "chance": "^1.1.7",
     "chrome-remote-interface": "^0.28.2",
-    "cy-view": "^1.0.9",
+    "cy-view": "^1.0.5",
     "cypress-failed-log": "^2.7.0",
     "cypress-log-to-output": "^1.1.2",
     "cypress-multi-reporters": "^1.4.0",
@@ -46,7 +46,8 @@
     "nodemailer": "^6.4.10",
     "pino": "^6.4.1",
     "requirejs": "^2.3.6",
-    "slack-webhook": "^1.0.0"
+    "slack-webhook": "^1.0.0",
+    "tsify": "^5.0.2"
   },
   "devDependencies": {
     "cucumber-html-reporter": "^5.4.0",
