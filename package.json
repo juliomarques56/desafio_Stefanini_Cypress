@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test:chrome": "cypress run --browser chrome --no-exit"
+    "cy:open": "npx cypress open",
+    "test:chrome": "cypress run --browser chrome --no-exit",
+    "cy:run:cucumber" : "npx cypress run",
+    "reporter-cucumber" : "node cypress/reports/reporter.js",
+    "reporter-clean" : "cypress/reports/cucumber-json/**"
   },
   "author": "",
   "license": "ISC",
@@ -45,10 +49,17 @@
     "slack-webhook": "^1.0.0"
   },
   "devDependencies": {
+    "cucumber-html-reporter": "^5.4.0",
     "cypress": "^6.5.0",
     "cypress-cucumber-preprocessor": "^4.0.1"
   },
   "cypress-cucumber-preprocessor": {
-    "step_definitions": "cypress/support/steps"
+    "step_definitions": "cypress/support/steps",
+    "cucumberJson": {
+      "generate": true,
+      "outputFolder": "cypress/reports/cucumber-json",
+      "filePrefix": "",
+      "fileSuffix": ".cucumber" 
+    }
   }
 }

@@ -33,4 +33,10 @@ Produto: Cadastro de Usuários - Prova Stefanini
 
 ## Executar teste
 - Comando para executar teste
-> npx cypress open
+> npm run cy:open
+
+- Comando para executar em background
+> npm run cy:run:cucumber
+
+- Comando para gerar o relatorio html #Executar após os testes
+> npm run reporter-cucumber

@@ -5,8 +5,8 @@
     "viewportHeight": 768,
   "responseTimeout": 200000,
   "pageLoadTimeout": 200000,
-  "reporter": "cypress-multi-reporters",
-  "reporterOptions": {
-    "configFile": "reporterOpts.json"
-  }
+  "experimentalSourceRewriting": true,
+    "watchForFileChanges": false,
+  "projectId": "qiwaqz",
+  "testFiles": "**/*.feature"
 }
