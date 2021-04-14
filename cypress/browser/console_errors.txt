@@ -1,0 +1,238 @@
+[2021-02-24T16:33:51.078Z] ⚠ error (network): Failed to load resource: net::ERR_EMPTY_RESPONSE,                             URL: https://dogma./dpc/asset/bundle.css?dm=,[2021-02-24T16:33:51.079Z] ⚠ error (network): Failed to load resource: net::ERR_EMPTY_RESPONSE,                             URL: https://dogma./dpc/asset/bundle.js?dm=,[2021-02-24T16:34:03.059Z] ⚠ error (network): Failed to load resource: the server responded with a status of 404 (Not Found),                             URL: https://api.orbita.grupoa.education/v1/subscription/users/35715302765,[2021-02-24T16:34:03.061Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "{\"level\":\"error\",\"message\":\"Server response error\",\"error\":{\"status\":404,\"statusText\":\"Not Found\",\"config\":{\"url\":\"/users/35715302765\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"x-tenant-alias\":\"univali\"},\"baseURL\":\"https://api.orbita.grupoa.education/v1/subscription\",\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1},\"data\":\"safea-client-404_users-not-found-tenant\"}}"
+                                 }
+                               ],[2021-02-24T16:34:07.042Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "object",
+                                   "subtype": "error",
+                                   "className": "TypeError",
+                                   "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://univali.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://univali.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                   "objectId": "-4077666917602501656.12.1",
+                                   "preview": {
+                                     "type": "object",
+                                     "subtype": "error",
+                                     "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://univali.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://univali.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                     "overflow": false,
+                                     "properties": [
+                                       {
+                                         "name": "stack",
+                                         "type": "string",
+                                         "value": "TypeError: Cannot read property 'selectSubscriptio…bscription/_nuxt/e12cce1af52033068c30.js:2:11914)"
+                                       },
+                                       {
+                                         "name": "message",
+                                         "type": "string",
+                                         "value": "Cannot read property 'selectSubscriptionByIngressMode' of null"
+                                       }
+                                     ]
+                                   }
+                                 }
+                               ],[2021-02-24T16:34:08.274Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "object",
+                                   "subtype": "error",
+                                   "className": "TypeError",
+                                   "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://univali.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://univali.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                   "objectId": "-4077666917602501656.12.2",
+                                   "preview": {
+                                     "type": "object",
+                                     "subtype": "error",
+                                     "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://univali.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://univali.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://univali.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                     "overflow": false,
+                                     "properties": [
+                                       {
+                                         "name": "stack",
+                                         "type": "string",
+                                         "value": "TypeError: Cannot read property 'selectSubscriptio…bscription/_nuxt/e12cce1af52033068c30.js:2:11914)"
+                                       },
+                                       {
+                                         "name": "message",
+                                         "type": "string",
+                                         "value": "Cannot read property 'selectSubscriptionByIngressMode' of null"
+                                       }
+                                     ]
+                                   }
+                                 }
+                               ],[2021-02-24T16:34:11.144Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "{\"level\":\"error\",\"message\":\"Error get Financial Person data\",\"error\":{\"name\":\"TypeError\",\"stack\":\"TypeError: Cannot read property 'zipCode' of undefined\\n    at https://univali.grupoa.education/orbita/candidate/_nuxt/886fb64033b0e15e7950.js:1:22501\\n    at d (https://univali.grupoa.education/orbita/candidate/_nuxt/784628102879274742a3.js:2:76436)\\n    at Generator._invoke (https://univali.grupoa.education/orbita/candidate/_nuxt/784628102879274742a3.js:2:76189)\\n    at Generator.S.forEach.t.<computed> [as next] (https://univali.grupoa.education/orbita/candidate/_nuxt/784628102879274742a3.js:2:76793)\\n    at r (https://univali.grupoa.education/orbita/candidate/_nuxt/784628102879274742a3.js:2:66353)\\n    at l (https://univali.grupoa.education/orbita/candidate/_nuxt/784628102879274742a3.js:2:66556)\"}}"
+                                 }
+                               ],[2021-02-24T16:37:10.375Z] ⚠ error (network): Failed to load resource: net::ERR_EMPTY_RESPONSE,                             URL: https://dogma./dpc/asset/bundle.js?dm=,[2021-02-24T16:37:10.375Z] ⚠ error (network): Failed to load resource: net::ERR_EMPTY_RESPONSE,                             URL: https://dogma./dpc/asset/bundle.css?dm=,[2021-02-24T16:37:23.932Z] ⚠ error (network): Failed to load resource: the server responded with a status of 404 (Not Found),                             URL: https://api.orbita.grupoa.education/v1/subscription/users/92862735337,[2021-02-24T16:37:23.935Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "{\"level\":\"error\",\"message\":\"Server response error\",\"error\":{\"status\":404,\"statusText\":\"Not Found\",\"config\":{\"url\":\"/users/92862735337\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"x-tenant-alias\":\"pucprdigital\"},\"baseURL\":\"https://api.orbita.grupoa.education/v1/subscription\",\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1},\"data\":\"safea-client-404_users-not-found-tenant\"}}"
+                                 }
+                               ],[2021-02-24T16:37:28.807Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "object",
+                                   "subtype": "error",
+                                   "className": "TypeError",
+                                   "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                   "objectId": "6006189338917736159.12.1",
+                                   "preview": {
+                                     "type": "object",
+                                     "subtype": "error",
+                                     "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                     "overflow": false,
+                                     "properties": [
+                                       {
+                                         "name": "stack",
+                                         "type": "string",
+                                         "value": "TypeError: Cannot read property 'selectSubscriptio…bscription/_nuxt/e12cce1af52033068c30.js:2:11914)"
+                                       },
+                                       {
+                                         "name": "message",
+                                         "type": "string",
+                                         "value": "Cannot read property 'selectSubscriptionByIngressMode' of null"
+                                       }
+                                     ]
+                                   }
+                                 }
+                               ],[2021-02-24T16:37:30.043Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "object",
+                                   "subtype": "error",
+                                   "className": "TypeError",
+                                   "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                   "objectId": "6006189338917736159.12.2",
+                                   "preview": {
+                                     "type": "object",
+                                     "subtype": "error",
+                                     "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://pucprdigital.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                     "overflow": false,
+                                     "properties": [
+                                       {
+                                         "name": "stack",
+                                         "type": "string",
+                                         "value": "TypeError: Cannot read property 'selectSubscriptio…bscription/_nuxt/e12cce1af52033068c30.js:2:11914)"
+                                       },
+                                       {
+                                         "name": "message",
+                                         "type": "string",
+                                         "value": "Cannot read property 'selectSubscriptionByIngressMode' of null"
+                                       }
+                                     ]
+                                   }
+                                 }
+                               ],[2021-02-24T16:45:27.013Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "The method setTrackerUrl is registered more than once in \"_paq\" variable. Only the last call has an effect. Please have a look at the multiple Piwik trackers documentation: https://developer.piwik.org/guides/tracking-javascript-guide#multiple-piwik-trackers"
+                                 }
+                               ],[2021-02-24T16:45:27.016Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "The method setSiteId is registered more than once in \"_paq\" variable. Only the last call has an effect. Please have a look at the multiple Piwik trackers documentation: https://developer.piwik.org/guides/tracking-javascript-guide#multiple-piwik-trackers"
+                                 }
+                               ],[2021-02-24T16:45:27.016Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "The method enableLinkTracking is registered more than once in \"_paq\" variable. Only the last call has an effect. Please have a look at the multiple Piwik trackers documentation: https://developer.piwik.org/guides/tracking-javascript-guide#multiple-piwik-trackers"
+                                 }
+                               ],[2021-02-24T16:45:45.899Z] ⚠ error (network): Failed to load resource: net::ERR_EMPTY_RESPONSE,                             URL: https://dogma./dpc/asset/bundle.css?dm=,[2021-02-24T16:46:14.900Z] ⚠ error (network): Failed to load resource: net::ERR_EMPTY_RESPONSE,                             URL: https://dogma./dpc/asset/bundle.js?dm=,[2021-02-24T16:46:27.838Z] ⚠ error (network): Failed to load resource: the server responded with a status of 404 (Not Found),                             URL: https://api.orbita.grupoa.education/v1/subscription/users/70309438640,[2021-02-24T16:46:27.842Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "{\"level\":\"error\",\"message\":\"Server response error\",\"error\":{\"status\":404,\"statusText\":\"Not Found\",\"config\":{\"url\":\"/users/70309438640\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"x-tenant-alias\":\"pucpr\"},\"baseURL\":\"https://api.orbita.grupoa.education/v1/subscription\",\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1},\"data\":\"safea-client-404_users-not-found-tenant\"}}"
+                                 }
+                               ],[2021-02-24T16:46:33.036Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "object",
+                                   "subtype": "error",
+                                   "className": "TypeError",
+                                   "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://pucpr.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://pucpr.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                   "objectId": "-1001660896052513523.12.1",
+                                   "preview": {
+                                     "type": "object",
+                                     "subtype": "error",
+                                     "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://pucpr.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://pucpr.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                     "overflow": false,
+                                     "properties": [
+                                       {
+                                         "name": "stack",
+                                         "type": "string",
+                                         "value": "TypeError: Cannot read property 'selectSubscriptio…bscription/_nuxt/e12cce1af52033068c30.js:2:11914)"
+                                       },
+                                       {
+                                         "name": "message",
+                                         "type": "string",
+                                         "value": "Cannot read property 'selectSubscriptionByIngressMode' of null"
+                                       }
+                                     ]
+                                   }
+                                 }
+                               ],[2021-02-24T16:46:34.269Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "object",
+                                   "subtype": "error",
+                                   "className": "TypeError",
+                                   "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://pucpr.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://pucpr.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                   "objectId": "-1001660896052513523.12.2",
+                                   "preview": {
+                                     "type": "object",
+                                     "subtype": "error",
+                                     "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://pucpr.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://pucpr.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://pucpr.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                     "overflow": false,
+                                     "properties": [
+                                       {
+                                         "name": "stack",
+                                         "type": "string",
+                                         "value": "TypeError: Cannot read property 'selectSubscriptio…bscription/_nuxt/e12cce1af52033068c30.js:2:11914)"
+                                       },
+                                       {
+                                         "name": "message",
+                                         "type": "string",
+                                         "value": "Cannot read property 'selectSubscriptionByIngressMode' of null"
+                                       }
+                                     ]
+                                   }
+                                 }
+                               ],[2021-02-24T16:46:38.376Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "The method setTrackerUrl is registered more than once in \"_paq\" variable. Only the last call has an effect. Please have a look at the multiple Piwik trackers documentation: https://developer.piwik.org/guides/tracking-javascript-guide#multiple-piwik-trackers"
+                                 }
+                               ],[2021-02-24T16:46:38.380Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "The method setSiteId is registered more than once in \"_paq\" variable. Only the last call has an effect. Please have a look at the multiple Piwik trackers documentation: https://developer.piwik.org/guides/tracking-javascript-guide#multiple-piwik-trackers"
+                                 }
+                               ],[2021-02-24T16:46:38.381Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "The method enableLinkTracking is registered more than once in \"_paq\" variable. Only the last call has an effect. Please have a look at the multiple Piwik trackers documentation: https://developer.piwik.org/guides/tracking-javascript-guide#multiple-piwik-trackers"
+                                 }
+                               ],[2021-02-24T16:59:38.633Z] ⚠ error (network): Failed to load resource: net::ERR_EMPTY_RESPONSE,                             URL: https://dogma./dpc/asset/bundle.js?dm=,[2021-02-24T16:59:38.635Z] ⚠ error (network): Failed to load resource: net::ERR_EMPTY_RESPONSE,                             URL: https://dogma./dpc/asset/bundle.css?dm=,[2021-02-24T16:59:51.682Z] ⚠ error (network): Failed to load resource: the server responded with a status of 404 (Not Found),                             URL: https://api.orbita.grupoa.education/v1/subscription/users/08493392430,[2021-02-24T16:59:51.685Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "string",
+                                   "value": "{\"level\":\"error\",\"message\":\"Server response error\",\"error\":{\"status\":404,\"statusText\":\"Not Found\",\"config\":{\"url\":\"/users/08493392430\",\"method\":\"get\",\"headers\":{\"Accept\":\"application/json, text/plain, */*\",\"x-tenant-alias\":\"faesa\"},\"baseURL\":\"https://api.orbita.grupoa.education/v1/subscription\",\"transformRequest\":[null],\"transformResponse\":[null],\"timeout\":0,\"xsrfCookieName\":\"XSRF-TOKEN\",\"xsrfHeaderName\":\"X-XSRF-TOKEN\",\"maxContentLength\":-1},\"data\":\"safea-client-404_users-not-found-tenant\"}}"
+                                 }
+                               ],[2021-02-24T16:59:56.946Z] ⚠ console.error called,                             Arguments:,                               [
+                                 {
+                                   "type": "object",
+                                   "subtype": "error",
+                                   "className": "TypeError",
+                                   "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://faesa.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://faesa.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                   "objectId": "2675381382865780929.12.1",
+                                   "preview": {
+                                     "type": "object",
+                                     "subtype": "error",
+                                     "description": "TypeError: Cannot read property 'selectSubscriptionByIngressMode' of null\n    at https://faesa.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:177089\n    at f.Ae [as _l] (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:16178)\n    at f.<anonymous> (https://faesa.grupoa.education/orbita/subscription/_nuxt/7f4c57dfc833aa5cbcab.js:1:176781)\n    at f.t._render (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:35964)\n    at f.r (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:65493)\n    at _n.get (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:27195)\n    at _n.run (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:28079)\n    at gn (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:26178)\n    at Array.<anonymous> (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:12470)\n    at ie (https://faesa.grupoa.education/orbita/subscription/_nuxt/e12cce1af52033068c30.js:2:11914)",
+                                     "overflow": false,
+                                     "properties": [
+                                       {
+                                         "name": "stack",
+                                         "type": "string",
+                                         "value": "TypeError: Cannot read property 'selectSubscriptio…bscription/_nuxt/e12cce1af52033068c30.js:2:11914)"
+                                       },
+                                       {
+                                         "name": "message",
+                                         "type": "string",
+                                         "value": "Cannot read property 'selectSubscriptionByIngressMode' of null"
+                                       }
+                                     ]
+                                   }
+                                 }
+                               ]

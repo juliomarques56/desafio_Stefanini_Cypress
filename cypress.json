@@ -1,0 +1,12 @@
+{
+  "defaultCommandTimeout": 10000,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1024,
+    "viewportHeight": 768,
+  "responseTimeout": 200000,
+  "pageLoadTimeout": 200000,
+  "reporter": "cypress-multi-reporters",
+  "reporterOptions": {
+    "configFile": "reporterOpts.json"
+  }
+}
