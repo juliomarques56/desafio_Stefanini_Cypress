@@ -40,3 +40,9 @@ Produto: Cadastro de Usuários - Prova Stefanini
 
 - Comando para gerar o relatorio html #Executar após os testes
 > npm run reporter-cucumber
+
+
+## Considerações:
+- Optei por não utilizar Esquemas de Cenários pois teria que passar os dados manualmente no Exemplos, ao inves disso criei variáveis e
+armazenei os valores trazendo de uma biblioteca.
+- Biblioteca usada "Leite"

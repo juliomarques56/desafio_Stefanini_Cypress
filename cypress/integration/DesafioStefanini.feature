@@ -2,8 +2,8 @@
 Funcionalidade: Realizar o cadastro de novos usuarios
 
     Contexto: Como usuario eu desejo reaizar cadastro, incluir e excluir novos usuarios
-        Dado que acesso o cadastro do site prova Stefanini
-        
+        Dado que acesso o cadastro do site prova Stefanini    
+    
     Cenario: Realizar o cadastro com sucesso
         Quando seleciono o botao cadastrar apos informar os dados validos
         Então devo ser cadastrado com sucesso
