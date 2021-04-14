@@ -1,20 +1,36 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# desafio-Stefanini
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+Desafio proposto com o objetivo de automatizar alguns cenários utilizando Cypress.
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+    Cenario: Realizar o cadastro com sucesso
+    Cenario: Informar somente email e senha ao tentar realizar cadastro
+    Cenario: Informar somente nome e senha ao tentar realizar cadastro
+    Cenario: Informar somente nome e email ao tentar realizar cadastro
+    Cenario: Verificar mensagem de validação do campo ao informar somente o primeiro nome
+    Cenario: Verificar mensagem de validação do campo ao inserir email invalido
+    Cenario: Realizar o cadastro informando senha invalida
+    Cenario: Excluir um usuario sem afetar dados de outro usuario
+    Cenario: Verificar mensagem de validação dos campos quando usuario não preenche nenhum dos dados
+    Cenario: Realizar o cadastro de 2 usuarios com os mesmos dados
+    Cenario: Excluir todos os usuarios cadastrados e validar que a tabela não esta presente na tela
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+Produto: Cadastro de Usuários - Prova Stefanini
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+# Configurações
+## Pré-requesitos
+- Node-js
+- Vs Code
+
+## Clonar repositório e preparar ambiente:
+1. Abra o terminal na pasta onde deseja clonar o projeto e execute:
+
+> git clone https://gitlab.com/carloscaldassss/desafio_stefanini
+
+2. Abra o VS Code e em seguida, abra um novo terminal do proprio VS Code e execute:
+
+> npm install
+
+
+## Executar teste
+- Comando para executar teste
+> npx cypress open
