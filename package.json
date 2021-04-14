@@ -5,9 +5,9 @@
   "scripts": {
     "cy:open": "npx cypress open",
     "test:chrome": "cypress run --browser chrome --no-exit",
-    "cy:run:cucumber" : "npx cypress run",
-    "reporter-cucumber" : "node cypress/reports/reporter.js",
-    "reporter-clean" : "cypress/reports/cucumber-json/**"
+    "cy:run:cucumber": "npx cypress run",
+    "reporter-cucumber": "node cypress/reports/reporter.js",
+    "reporter-clean": "cypress/reports/cucumber-json/**"
   },
   "author": "",
   "license": "ISC",
@@ -28,8 +28,8 @@
     "from-json-to-html": "^1.0.1",
     "fs": "0.0.1-security",
     "globby": "^11.0.1",
-    "json-concat": "0.0.1",
     "json_merger": "^1.2.0",
+    "json-concat": "0.0.1",
     "leite": "^0.2.0",
     "load-json-file": "^6.2.0",
     "mocha": "^8.0.1",
@@ -59,7 +59,7 @@
       "generate": true,
       "outputFolder": "cypress/reports/cucumber-json",
       "filePrefix": "",
-      "fileSuffix": ".cucumber" 
+      "fileSuffix": ".cucumber"
     }
   }
 }
